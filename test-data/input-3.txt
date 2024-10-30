@@ -1,0 +1,4 @@
+# To give some cooling time to the torpedo stores, torpedo stores are fired alternating.
+GT4500,10,0,10,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
